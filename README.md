@@ -1,0 +1,2 @@
+# Yazenscholarship
+Website for scholarships
